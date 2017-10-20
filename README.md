@@ -6,5 +6,5 @@ In this assignment, we have to build a (basic) negtiating agent. This task invol
 * *A general description of the project* 
 https://brightspace.tudelft.nl/d2l/le/content/36521/viewContent/408951/View
 
-* *A comprehensive guide for GENIUS* 
+* *A comprehensive guide for GENIUS*  
 https://ii.tudelft.nl/genius/sites/default/files/userguide.pdf
