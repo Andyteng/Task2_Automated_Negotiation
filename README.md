@@ -1,8 +1,5 @@
-# OVRP (advanced planning and scheduling)
-
-Codebase for 2017 APS MSc group project on open vehicle routing.
-
+# IN4010 - Practical assignment: Automated Negotiation (Task 2)
 
 ### More references and links
 
-https://github.com/pgRouting/pgrouting/wiki/VRP-Algorithms
+https://brightspace.tudelft.nl/d2l/le/content/36521/viewContent/408951/View
