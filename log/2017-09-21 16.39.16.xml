@@ -1,0 +1,7 @@
+<a>
+<NegotiationOutcome currentTime="2017-09-21 17:53:29" timeOfAgreement="0.030443963472222224" bids="5" domain="etc/templates/pie/pie_domain.xml" lastAction="(Accept  bid:Bid[Pie: a919, ])" runNumber="0" finalOutcome="Reservation" errors="" startingAgent="A"> 
+<resultsOfAgent agent="A" agentName="Simple Agent" discount="1.0" agentClass="agents.SimpleAgent" utilspace="etc/templates/pie/pie_A.xml" Opponent-agentName="Simple Agent" Opponent-agentClass="agents.SimpleAgent" Opponent-utilspace="etc/templates/pie/pie_A.xml" finalUtility="0.919" discountedUtility="0.919" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.919" AcceptedBy="agentB"> 
+</resultsOfAgent> 
+<resultsOfAgent agent="B" agentName="Simple Agent" discount="1.0" agentClass="agents.SimpleAgent" utilspace="etc/templates/pie/pie_A.xml" Opponent-agentName="Simple Agent" Opponent-agentClass="agents.SimpleAgent" Opponent-utilspace="etc/templates/pie/pie_A.xml" finalUtility="0.919" discountedUtility="0.919" bestAcceptableBid="0.919" bestDiscountedAccepableBid="0.02541789815" maxUtility="1.0" normalizedUtility="0.919" AcceptedBy="agentB"> 
+</resultsOfAgent> 
+</NegotiationOutcome> 
